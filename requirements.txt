@@ -1,4 +1,5 @@
 duckdb
+reportlab
 streamlit
 torch
 rdkit
