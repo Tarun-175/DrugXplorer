@@ -1,0 +1,4 @@
+libxrender1
+libsm6
+libxext6
+libsqlite3-dev

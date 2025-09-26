@@ -1,0 +1,13 @@
+duckdb
+streamlit
+torch
+rdkit
+pubchempy
+pandas
+numpy
+matplotlib
+seaborn
+pillow
+scikit-learn
+google-generativeai
+mistralai>=1.0.0
